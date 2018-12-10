@@ -1,0 +1,15 @@
+{
+  "name": "magicdeckbuilder",
+  "version": "1.0.0",
+  "description": "Build Your MTG deck",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Damien Bafile",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.10",
+    "mtgsdk": "^0.4.2"
+  }
+}
